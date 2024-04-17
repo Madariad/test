@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+    <h1>test</h1>
       <img src={test} alt="" />
     </>
   )
