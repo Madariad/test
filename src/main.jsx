@@ -16,7 +16,7 @@ import {
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path="test/:lang" element={<App />}>
+    <Route path="/:lang" element={<App />}>
     </Route>
   )
 );
