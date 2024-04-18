@@ -19,7 +19,7 @@ export default function banner() {
   return (
 <div className={bg}>
   <Container>
-    <div style={{paddingTop: '19%'}}>
+    <div style={{paddingTop: '10%'}}>
     <Row>
   <Col xs={12} md={6}>
     {/* Текст будет занимать всю ширину на маленьких экранах и половину на средних и больших */}
