@@ -1,0 +1,18 @@
+{
+    "navbar": {
+        "items": [
+            {"name": "домой", "url": "/"},
+            {
+                "name": "для класса",
+                "elements": [
+                    {"name": "класс 10", "url": "/class10"},
+                    {"name": "класс 11", "url": "/class11"}
+                ]
+            }
+        ]
+    },
+
+    "mainPage": {
+
+    }
+}

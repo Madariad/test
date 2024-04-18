@@ -1,0 +1,27 @@
+.navbartransparent {
+    background-color: transparent !important;
+    transition: background-color 0.5s ease;
+  }
+  
+.navbarcolor {
+    background-color: #25829e !important; /* Здесь вы можете указать желаемый цвет */
+    transition: background-color 0.5s ease;
+}
+  
+
+/* Цвет текста когда навигационная панель прозрачная */
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .nav-link,
+.navbar-transparent .nav-dropdown {
+  color: rgb(248, 8, 8) !important; 
+}
+
+
+/* Цвет текста когда навигационная панель имеет цвет */
+
+/* .navbar-color .navbar-brand,
+.navbar-color .nav-link,
+.navbar-color .nav-dropdown {
+  color: black !important; 
+}  */
